@@ -83,7 +83,9 @@ Browsing to port 8065 we get the MatterMost login page but we don't have credent
 The Helpdesk page uses the OsTicket web application. It allows users to create and view the status of ticket.
 
 ![](/assets/images/htb-writeup-delivery/helpdesk3.png)
+<img src="/assets/images/htb-writeup-delivery/helpdesk3.png" alt="Helpdesk 3" style="max-width:100%; height:auto;">
 
+<img src="/assets/images/helpdesk3.png" alt="Helpdesk 3" style="max-width:100%; height:auto;">
 We can still open new tickets even if we only have a guest user.
 
 ![](/assets/images/htb-writeup-delivery/helpdesk1.png)
