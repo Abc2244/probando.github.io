@@ -76,6 +76,7 @@ The Delivery website is pretty basic, there's a link to a vhost called helpdesk.
 The contact us section tells us we need an @delivery.htb email address and tells us port 8065 is a MatterMost server. MatterMost is a Slack-like collaboration platform that can be self-hosted.
 
 ![](/assets/images/htb-writeup-delivery/website2.png)
+![]({{ site.baseurl }}/assets/images/htb-writeup-delivery/helpdesk3.png)
 
 Browsing to port 8065 we get the MatterMost login page but we don't have credentials yet
 
